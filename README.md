@@ -1,1 +1,1 @@
-# mater-thesis
+# master-thesis
